@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+}
+.main-col{
+  border: 1px solid #000;
+  margin: 15px;
+  padding: 20px 15px;
+}
+h1{
+  margin: 0;
+  line-height: 1;
+  color: #c0f;
+  text-transform: uppercase;
+}
